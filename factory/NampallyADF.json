@@ -1,0 +1,9 @@
+{
+	"name": "NampallyADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f2d1b34-0f4b-499f-8b41-13759830ec29",
+		"tenantId": "0689aa33-b0d0-40bf-984a-e779b1ef28d5"
+	}
+}
